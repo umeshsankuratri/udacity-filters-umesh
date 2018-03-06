@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  B_Cpp_conversion_udacity.cpp
+  tests.cpp
+c:\users\umk\desktop\udacity-cpp-histogram-filter-project\modified_code_python_to_c++_submitted\modified_code_python_to_c++\tests.cpp(286): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  simulate.cpp
+c:\users\umk\desktop\udacity-cpp-histogram-filter-project\modified_code_python_to_c++_submitted\modified_code_python_to_c++\simulate.cpp(114): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  localizer.cpp
+c:\users\umk\desktop\udacity-cpp-histogram-filter-project\modified_code_python_to_c++_submitted\modified_code_python_to_c++\localizer.cpp(190): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  helpers.cpp
+c:\users\umk\desktop\udacity-cpp-histogram-filter-project\modified_code_python_to_c++_submitted\modified_code_python_to_c++\helpers.cpp(270): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  debugging_helpers.cpp
+c:\users\umk\desktop\udacity-cpp-histogram-filter-project\modified_code_python_to_c++_submitted\modified_code_python_to_c++\debugging_helpers.cpp(53): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
